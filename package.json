@@ -17,6 +17,14 @@
   },
   "homepage": "https://github.com/mihaelavalac/jest-another-RGP#readme",
   "devDependencies": {
-    "jest": "^27.4.7"
+    "jest": "^27.4.7",
+    "ts-node": "^10.4.0"
+  },
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "inquirer": "^8.2.0"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
